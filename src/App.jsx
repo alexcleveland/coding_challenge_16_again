@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div>
-      <h1>Product Dashboard</h1>
+      <h1>Generic bar</h1>
       <AddProductForm addProduct={addProduct} />
       <ProductList products={products} />
     </div>
